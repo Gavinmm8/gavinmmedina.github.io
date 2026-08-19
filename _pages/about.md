@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Politics at [Princeton University](https://politics.princeton.edu/). I study the racial foundations of American public opinion on foreign policy. My research focuses on how Americans' perceptions of their own race and the race of others shape their attitudes toward domestic and international politics.
+I am a Ph.D. candidate in the Department of Politics at [Princeton University](https://politics.princeton.edu/). I study race and ethnic politics with a focus on American public opinion on foreign policy. My research focuses on how Americans' perceptions of their own race and the race of others shape their attitudes toward domestic and international politics.
+
+Job Market Paper
+======
+<ul>
+  <li>
+    <b>Switching Sides: Choice Structure, Recipient Race, and American Support for Foreign Aid</b>
+    <br>
+     Draft available upon request.
+
+    <details>
+      <summary><i>[Abstract]</i></summary>
+      <p>
+       How much does aggregate public opinion conceal about underlying policy preferences? I argue that omnibus questions can overstate categorical opposition when multidimensional policies are evaluated as single objects. I test this argument with a preregistered survey experiment on American support for foreign aid. Respondents evaluate the same aid package first as an all-or-nothing proposal and then program by program. Only 36\% of White American respondents support the package as a whole, yet 89\% support at least one component, including 76\% of those who oppose the omnibus package. This divergence reflects a structured set of conditional preferences as opposed to distinct pro-aid and anti-aid publics. Respondents largely share a common ordering over aid instruments but differ in the threshold at which they stop funding them. Support concentrates on medicine and food and is lowest for cash assistance. Recipient race substantially affects support for the aggregate package but has little effect on average program-level support; instead, racial cues produce opposing responses among respondents high and low in ethnocentrism. The results show how aggregating multidimensional policies into single judgments can conceal both conditional support and meaningful heterogeneity in the preferences that underlie public opinion.
+      </p>
+    </details>
+  </li>
+</ul>
 
 Submitted Manuscripts
 ======
@@ -29,19 +46,26 @@ Submitted Manuscripts
 
 
 
-Research in Progress
-======
 
+Working Papers
+======
 <ul>
   <li>
-    <b>Against Aid, For Assistance: Race and American Attitudes on Foreign Aid</b>
+    <b>The Nation Within a Nation: A Minimal Measure of Black Nationalism</b>
     <br>
+    (with Darius Cozart, LaFleur Stephens-Dougan, and Ismail White)
+
   </li>
 </ul>
 
+
+
+
+Research in Progress
+======
 <ul>
   <li>
-    <b>Principled or Prejudiced: Political Ideology, Race, and Support for Foreign Assistance</b>
+    <b>Unbundling Ideology: Race, Economic Principle, and American Support for Foreign Aid</b>
     <br>
   </li>
 </ul>
@@ -67,14 +91,6 @@ Research in Progress
   </li>
 </ul>
 
-<ul>
-  <li>
-    <b>The Nation Within a Nation: A Minimal Measure of Black Nationalism</b>
-    <br>
-    (with Darius Cozart, LaFleur Stephens-Dougan, and Ismail White)
-
-  </li>
-</ul>
 
 <ul>
   <li>
