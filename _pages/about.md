@@ -14,14 +14,14 @@ Job Market Paper
 ======
 <ul>
   <li>
-    <b>Switching Sides: Choice Structure, Recipient Race, and American Support for Foreign Aid</b>
+    <b>Switching Sides: Choice Structure, Race, and American Support for Foreign Aid</b>
     <br>
      Draft available upon request.
 
     <details>
       <summary><i>[Abstract]</i></summary>
       <p>
-       How much does aggregate public opinion conceal about underlying policy preferences? I argue that omnibus questions can overstate categorical opposition when multidimensional policies are evaluated as single objects. I test this argument with a preregistered survey experiment on American support for foreign aid. Respondents evaluate the same aid package first as an all-or-nothing proposal and then program by program. Only 36\% of White American respondents support the package as a whole, yet 89\% support at least one component, including 76\% of those who oppose the omnibus package. This divergence reflects a structured set of conditional preferences as opposed to distinct pro-aid and anti-aid publics. Respondents largely share a common ordering over aid instruments but differ in the threshold at which they stop funding them. Support concentrates on medicine and food and is lowest for cash assistance. Recipient race substantially affects support for the aggregate package but has little effect on average program-level support; instead, racial cues produce opposing responses among respondents high and low in ethnocentrism. The results show how aggregating multidimensional policies into single judgments can conceal both conditional support and meaningful heterogeneity in the preferences that underlie public opinion.
+       How much does aggregate public opinion conceal about policy preferences? I argue that omnibus questions can overstate categorical opposition to multidimensional policies. In a preregistered survey experiment, White Americans evaluated a \$50 million foreign-aid package containing seven programs and then evaluated the same programs individually. Only 36\% support the foreign aid package, whereas 89\% support at least one component, including 76\% of omnibus opponents. Respondents also share a common ordering of aid instruments, favoring medicine and food over cash assistance, but differ in where they stop providing funds. Recipient race matters differently across levels of choice: a Black-majority cue increases support for the foreign aid package but has little average effect on individual programs. Those small effects conceal opposing responses across levels of ethnocentrism in both program support and program evaluations. Opposition to foreign aid is therefore not only conditional on program content, racial cues also divide respondents according to ethnoracial attitudes.
       </p>
     </details>
   </li>
