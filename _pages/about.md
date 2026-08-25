@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Politics at [Princeton University](https://politics.princeton.edu/). I study race and ethnic politics with a focus on American public opinion on foreign policy. My research focuses on how Americans' perceptions of their own race and the race of others shape their attitudes toward domestic and international politics.
+I am a Ph.D. candidate in the Department of Politics at [Princeton University](https://politics.princeton.edu/). **I am on the 2026-27 academic job market**. I study race and ethnic politics with a focus on American public opinion on foreign policy. My research focuses on how Americans' perceptions of their own race and the race of others shape their attitudes toward domestic and international politics.
 
 Job Market Paper
 ======
